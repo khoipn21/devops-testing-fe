@@ -56,7 +56,7 @@ function App() {
 
 	return (
 		<div className="App">
-			<h1>Product Manager123</h1>
+			<h1>Product Manager Testing 123</h1>
 
 			<form
 				onSubmit={addProduct}
